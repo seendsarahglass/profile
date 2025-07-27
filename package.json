@@ -1,0 +1,21 @@
+{
+  "name": "seend-sarah-glass-profile",
+  "version": "1.0.0",
+  "description": "Profile website for Seend Sarah Glass",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "profile",
+    "portfolio",
+    "seendsarahglass"
+  ],
+  "author": "Seend Sarah Glass",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
